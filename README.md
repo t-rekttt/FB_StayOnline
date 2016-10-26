@@ -1,5 +1,5 @@
 # FB_StayOnline
-A short Python script to set your Facebook to always online state based on the "Typing..." API in Facebook message
+A short Python script to set your Facebook to always online state using the "Typing..." API in Facebook message
 
 # How to use
 1. Clone/download this repo to your computer
